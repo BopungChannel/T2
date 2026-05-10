@@ -1,0 +1,22 @@
+{
+  "name": "SEB SIMEONG",
+  "short_name": "SIMEONG",
+  "description": "Sistem Ujian Terintegrasi berbasis G-Form by BopungGIS",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a0f1e",
+  "theme_color": "#5b51d8",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://i.ibb.co.com/JWpHmdYR/SIMEONG-LOGO-UP.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://i.ibb.co.com/JWpHmdYR/SIMEONG-LOGO-UP.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
